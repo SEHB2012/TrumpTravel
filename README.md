@@ -14,7 +14,7 @@
 
 
 ###  🥇This project also won BEST PRESENTATION in the INF412 Data Class at the Faculty of Information, University of Toronto!
-The slide deck can be accessed at `presentation` :)
+The slide deck can be accessed at [`presentation` :)](https://www.canva.com/design/DAGjVCQC098/ISPcxzFbb4llS1huCJV8Mg/view?utm_content=DAGjVCQC098&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel)
 
 *Sehar Bajwa, Francesca Ye, and Catherine Punnoose*
 
